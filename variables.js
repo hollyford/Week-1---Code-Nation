@@ -1,3 +1,5 @@
+// Activity 1:
+
 // let i = 10;
 // console.log(i);
 
@@ -7,6 +9,8 @@
 // i = 10;
 // i += 2;
 // console.log(i);
+
+// Activity 1 stretch:
 
 // let favouriteDrink = "coffee";
 // let name = "Holly";
@@ -31,6 +35,7 @@
 // favColour = "Black";
 // console.log(`My brother's name is ${name}, he is ${age} years old and his favourite colour is ${favColour}.`);
 
+// Activity 2 and stretch
 
 // let breakfast = "cereal";
 // let lunch = "ham sandwiches";
@@ -43,6 +48,8 @@
 // dinner = "stew";
 
 // console.log(`Tomorrow I plan to eat ${breakfast} for breakfast, ${lunch} for lunch and ${dinner} for dinner.`);
+ 
+// Activity 3:
 
 // Birthday countdown:
 
@@ -59,6 +66,7 @@
 // Date.prototype.toDateString()
 // Returns the "date" portion of the Date as a human-readable string like 'Thu Apr 12 2018'.
 
+// Activity 4:
 // Noughts and crosses board: (could add a variable for the lines to simplify console log even further)
 
 // let space1 = "x";
